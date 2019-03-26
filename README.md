@@ -1,10 +1,10 @@
 # Magento 1.9 and Magento 2 LEMP stack
 
-Nginx
-Haproxy
-php-fpm 7.2
-Percona
-Redis
-Varnish
-lsyncd
+Nginx <br>
+Haproxy <br>
+php-fpm 7.2 <br>
+Percona <br>
+Redis <br>
+Varnish <br>
+lsyncd <br>
 
